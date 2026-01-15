@@ -10,7 +10,7 @@ I'm a full-stack software engineer passionate about building scalable applicatio
 
 ## 🚀 About Me
 
-- 🔭 Currently building full-stack applications with **React, Python, Django, and Node.js**
+- 🔭 Currently building full-stack applications with **Next, React, Python, Django, and Node.js**
 - 📚 Pursuing **AWS Solutions Architect Associate Certification**
 - 🌱 Learning cloud-native development and DevOps practices
 - 🎯 Focused on creating user-friendly, scalable solutions
