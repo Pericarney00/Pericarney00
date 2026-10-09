@@ -10,7 +10,7 @@ I'm a full-stack software engineer who ships production features end to end — 
 
 ## 🚀 About Me
 
-- 🔭 Currently building **[Follow Forward](https://followforward.dev)** — a production goal-planning app in **Next.js, TypeScript, and PostgreSQL**
+- 🔭 Launched **[Follow Forward](https://followforward.dev)** — a production goal-planning app in **Next.js, TypeScript, and PostgreSQL**
 - 🤖 Shipping **LLM-powered features on the Anthropic Claude API** with structured outputs, caching, and cost controls
 - 🔐 Security-minded: ran an end-to-end audit on my own production app and took it from a **B+ to an A** external rating
 - 🗣️ Former K-12 educator and direct-sales rep — I translate technical depth for whoever's in the room
